@@ -1,5 +1,5 @@
-% This file is a standalone part of ecoOptimize, a code to optimize a 
-% design model for minimum eco impacts subject to functional requirements.
+% This file is a part of ecoDesign, a example code to design and 
+% assess the environmental performance of simply supported panel.
 % 
 % Copyright (C) 2020 Ciarán O'Reilly <ciaran@kth.se>
 % 
